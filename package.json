@@ -1,12 +1,13 @@
 {
-  "name": "mvl-blank-project",
+  "name": "mvl-mustache-handler",
   "version": "0.0.1",
   "description": "",
-  "main": "src/mvlblankproject.js",
+  "main": "src/mvlmustachehandler.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
+    "mustache": "^4.0.0",
     "mvloader": "git+https://github.com/mvoevodskiy/mvloader.git",
     "mvtools": "git+https://github.com/mvoevodskiy/mvtools.git"
   },
